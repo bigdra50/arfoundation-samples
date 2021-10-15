@@ -81,3 +81,4 @@ Assets/_TerrainAutoUpgrade/
 Assets/_TerrainAutoUpgrade.meta
 
 Assets/GitIgnore/*
+Assets/Plugins/ARFoundationRemoteInstaller*
