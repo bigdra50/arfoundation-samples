@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
+using SRDebugger;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.XR.ARFoundation;
 
-public partial class SROptions
+public class NormalMeshesOptions
 {
     private const string CATEGORY_MESHING = "Meshing";
     private const string CATEGORY_GENERAL = "General";
